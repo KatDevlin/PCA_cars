@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 
 ```
 
-In the following document, we perform principal component analysis of the `datasets::mtcars` data
+In the following document, we perform principal component analysis of the `datasets::mtcars` data. Please note: this is not my own original code. I used this as a practice for setting up my website. It's also a helpful example of PCA, though, so I'm keeping it on here in hopes others can access & use it as a reference. Original code & helpful tutorial can be found [here]( https://plot.ly/r/github-getting-started-for-data-scientists/#chapter-4-version-control-r-code-using-an-example-of-pca).
 
 # Introducing the `mtcars` dataset
 
